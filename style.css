@@ -16,6 +16,7 @@ body {
 .panels {
   min-height: 100vh;
   overflow: hidden;
+  display: flex;
 }
 .panel {
   background: #6b0f9c;
@@ -28,6 +29,7 @@ body {
   font-size: 20px;
   background-size: cover;
   background-position: center;
+  flex: 1;
 }
 .panel1 {
   background-image: url("./images/automne.jpg");
