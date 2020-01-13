@@ -29,3 +29,18 @@ body {
   background-size: cover;
   background-position: center;
 }
+.panel1 {
+  background-image: "./images/automne.jpg";
+}
+.panel2 {
+  background-image: "./images/cerisier.jpg";
+}
+.panel3 {
+  background-image: "./images/ciel.jpg";
+}
+.panel4 {
+  background-image: "./images/mer.jpeg";
+}
+.panel5 {
+  background-image: "./images/rotterdam.jpg";
+}
