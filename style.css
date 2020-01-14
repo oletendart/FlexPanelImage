@@ -33,6 +33,7 @@ body {
   justify-content: center;
   align-items: center;
   display: flex;
+  flex-direction: column;
 }
 .panel1 {
   background-image: url("./images/automne.jpg");
